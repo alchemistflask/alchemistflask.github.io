@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: /login
-
-Sitemap: https://alchemistflask.github.io/sitemap_index.atopiape
